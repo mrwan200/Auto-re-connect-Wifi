@@ -1,5 +1,5 @@
 #code by Punuy_48_TGT
-#Python 3.7.x
+#Python 3.7.4
 #Version 0.1
 
 import os
