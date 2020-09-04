@@ -1,5 +1,5 @@
   # Auto-re-connect-Wifi
-How To Use ??
+  # How To Use ??
 
 Step 1
 
@@ -16,3 +16,6 @@ Step 3
 Step 4
 
     Run scrip!
+    
+  # Set time ??
+ You can set Delay(sec.) in line 25 ^~^
